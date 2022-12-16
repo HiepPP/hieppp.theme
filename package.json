@@ -1,0 +1,21 @@
+{
+  "name": "hieppp-theme",
+  "displayName": "hieppp-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "hieppp",
+        "uiTheme": "vs",
+        "path": "./themes/hieppp-color-theme.json"
+      }
+    ]
+  }
+}
